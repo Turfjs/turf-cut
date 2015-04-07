@@ -8,7 +8,6 @@ var
 
 /**
 *	Function that cuts a {@link Polygon} with a {@link Linestring}
-* @requires	earcut.js
 * @param {Feature<(Polygon)>} poly - single Polygon Feature
 * @param {Feature<(Polyline)>} line - single Polyline Feature
 * @return {FeatureCollection<(Polygon)>} 
